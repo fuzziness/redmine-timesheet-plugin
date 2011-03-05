@@ -5,3 +5,9 @@ it:
   timesheet_project_label: Progetto
   timesheet_activities_label: Attività
   timesheet_users_label: Utenti
+  timesheet_showing_users: 'tempi di: '
+  timesheet_permalink: '(Permalink a questa pagina)'
+  timesheet_group_by: Raggruppa per
+  label_show_project_status: "Stato dei progetti:"
+  text_active_projects: "Attivi"
+  text_all_projects: "Tutti (attivi ed archiviati)"
